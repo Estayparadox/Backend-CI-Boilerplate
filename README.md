@@ -1,1 +1,4 @@
 # SERVICE API
+[![Build Status](https://travis-ci.com/Tavernier-App/serviceapi.svg?token=DPyV2TJUZssxYKAMHpQ2&branch=master)](https://travis-ci.com/Tavernier-App/serviceapi) [![Maintainability](https://api.codeclimate.com/v1/badges/3efcb87e3c38e79d4a51/maintainability)](https://codeclimate.com/github/Tavernier-App/serviceapi/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/3efcb87e3c38e79d4a51/test_coverage)](https://codeclimate.com/github/Tavernier-App/serviceapi/test_coverage) [![Coverage Status](https://coveralls.io/repos/github/Tavernier-App/serviceapi/badge.svg)](https://coveralls.io/github/Tavernier-App/serviceapi) [![Build status](https://ci.appveyor.com/api/projects/status/4e6vda4ke96j3uye/branch/master?svg=true)](https://ci.appveyor.com/project/Estayparadox/serviceapi/branch/master)
+
+
