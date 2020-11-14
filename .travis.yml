@@ -14,6 +14,9 @@ before_script:
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
 script:
-  - yarn test
+  - yarn test --coverage
+after_success:
+  - yarn global add codeclimate-test-reporter
+  - yarn coverage
 after_script:
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESUL
