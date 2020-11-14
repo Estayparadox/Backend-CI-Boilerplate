@@ -1,9 +1,9 @@
 environment:
-  allow_failures:
-    - nodejs_version: "8.17"
   matrix:
     - nodejs_version: "12"
     - nodejs_version: "14.4"
+    allow_failures:
+      - nodejs_version: "8.17"
 install:
   - ps: Install-Product node $env:nodejs_version
   - yarn install
