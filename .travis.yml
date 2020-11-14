@@ -4,11 +4,11 @@ env:
     - CC_TEST_REPORTER_ID=6294ae9e11320ff6077bd63248f526c0cae257c2373b00a8302a52322499d264
 matrix:
   include:
-  - node_js: '14.4.0'
+  - node_js: '12'
 cache:
   directories: [node_modules]
 install:
-  yarn install --no-lockfile
+  yarn
 after_success: yarn coverage
 before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter

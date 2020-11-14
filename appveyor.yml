@@ -1,8 +1,8 @@
 environment:
   matrix:
-  - nodejs_version: "14.4.0"
+  - nodejs_version: "12"
 install:
-  - yarn install --no-lockfile
+  - yarn --no-lockfile
 test_script:
   - yarn test
 build: off
