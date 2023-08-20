@@ -1,5 +1,6 @@
 # SERVICE API
-![badge2](https://img.shields.io/badge/language-NodeJS-yellow) [![Build Status](https://travis-ci.com/Tavernier-App/serviceapi.svg?token=DPyV2TJUZssxYKAMHpQ2&branch=master)](https://travis-ci.com/Tavernier-App/serviceapi) [![Coverage Status](https://coveralls.io/repos/github/Tavernier-App/serviceapi/badge.svg?branch=master)](https://coveralls.io/github/Tavernier-App/serviceapi?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/3b98610bd5fdcf1e9af8/maintainability)](https://codeclimate.com/repos/5faf134a47c4b7018d00206a/maintainability) [![Build status](https://ci.appveyor.com/api/projects/status/k8h8jdw54r9t1q9y?svg=true)](https://ci.appveyor.com/project/Estayparadox/serviceapi)
+![badge2](https://img.shields.io/badge/language-NodeJS-yellow)
+[![Build Status](https://app.travis-ci.com/Estayparadox/Backend-CI-Boilerplate.svg?branch=master)](https://app.travis-ci.com/Estayparadox/Backend-CI-Boilerplate)
 
 ## Install
 
